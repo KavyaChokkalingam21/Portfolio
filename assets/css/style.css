@@ -638,7 +638,7 @@ section {
 
 /*----------# Footer----------------------------------------------------*/
 #footer {
-  padding: 20px;
+  padding: 0px;
   color: #f4f6fd;
   font-size: 20px;
   position: fixed;
@@ -654,7 +654,7 @@ section {
 }
 
 #footer .credits {
-  padding-top: 4px;
+  padding-top: 2px;
   text-align: center;
   font-size: 14px;
   color: #eaebf0;
